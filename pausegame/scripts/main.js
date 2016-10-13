@@ -1,4 +1,4 @@
-window.baseurl = 'http://JensJI.github.io/pausegame/';
+window.baseurl = 'https://JensJI.github.io/pausegame/';
 
 /**
  * Initalize game
